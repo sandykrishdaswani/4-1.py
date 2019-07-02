@@ -1,3 +1,3 @@
-r=input()
-print((len(r))-(r.count(" ")))
+w=input()
+print((len(w))-(w.count(" ")))
 
