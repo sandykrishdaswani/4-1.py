@@ -1,2 +1,3 @@
-y=input()
-print((len(y))-(y.count(" ")))
+r=input()
+print((len(r))-(r.count(" ")))
+
