@@ -1,3 +1,3 @@
-u,k=input().split()
-u,k=k,u
-print(u,k)
+s,k=input().split()
+s,k=k,s
+print(s,k)
